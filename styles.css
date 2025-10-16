@@ -576,13 +576,17 @@ footer::before {
     .social-link {
         width: 45px;
         height: 45px;
-        font-size: 1.1em;
+        font-size: 0.9em;
     }
 
     .contact-info-item {
-        flex-direction: column;
+        flex-direction: row;
         text-align: center;
         padding: 12px;
+    }
+    .contact-info-item a {
+                font-size: 0.95em;
+                word-break: break-all;
     }
 
     .section-intro {
