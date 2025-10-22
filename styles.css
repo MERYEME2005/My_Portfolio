@@ -515,7 +515,7 @@ footer::before {
 /* Très petits écrans (max-width: 480px) */
 @media (max-width: 480px) {
     h1 {
-        font-size: 1.7em;
+        font-size: 1.5em;
     }
 
     h2 {
