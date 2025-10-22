@@ -515,7 +515,7 @@ footer::before {
 /* Très petits écrans (max-width: 480px) */
 @media (max-width: 480px) {
     h1 {
-        font-size: 1.5em;
+        font-size: 1.7em;
     }
 
     h2 {
@@ -658,7 +658,7 @@ footer::before {
 /* Styles additionnels pour la créativité */
         .hero-section {
             text-align: center;
-            padding: 0px 80px;
+            padding: 0px 10px;
             position: relative;
         }
 
